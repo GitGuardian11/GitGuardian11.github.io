@@ -11,3 +11,7 @@ There are no more projects... yet
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 This is the sheet that I used to make this website/markdown file
+
+[Colbalt Media Downloader](https://cobalt.tools/)
+
+A simple, but very powerful downloader for music, youtube videos, and more! See the supported services on the website.
