@@ -2,7 +2,7 @@
 This is my website. This is a gateway to my other projects that I have been working on.
 I wrote this in **Markdown**, so I don't have to code a whole html file.
 ## My Projects
-[GitGames](https://gitguardian11.github.io/GitGames)
+[GitGames](https://gitguardian11.github.io/gitgaems)
 
 ~~Please make more instances of GitGames by forking my project, then hosting it on GitHub Pages~~
 
@@ -21,12 +21,5 @@ This is the sheet that I used to make this website/markdown file
 
 A simple, but very powerful downloader for music, youtube videos, and more! See the supported services on the website.
 
-[Spotfy.one](https://spotfy.one)
-
-A free tool to listen to music with. It mirrors a YouTube link, so you have to manually play each song in a album.
-
-[Squid.WTF](https://squid.wtf)
-
-A Deezer FLAC ripper. Only used once for a project, but sounds good!
 
 That's it... for now.
